@@ -81,14 +81,26 @@
                     "authorName": "freak#0001"
                 },
                 {
-                    "title": "Scholar Tracker Manager",
-                    "url": "https://tracker.axie.management/",
-                    "image": "https://tracker.axie.management/favicon.ico",
-                    "description": "Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
+                    "title": "Lamp and Max's Scholarship Automation",
+                    "url": "https://www.notion.so/lampandmaxaxie/LampAndMax-Axie-Bot-Information-6ffe8465db214b8095cedbdba93dc86f",
+                    "description": "Full automation for scholarships. Payouts, Tracking, and everything else you need. All self hosted, with password based encryption.",
+                    "social": [
+                        {
+                            "type": "Discord",
+                            "url": "https://discord.gg/mSegpSbbAZ"
+                        }
+                    ],
+                    "authorName": "Maxbrand99#5913"
+                },
+                {
+                    "title": "EBC Tracker",
+                    "url": "https://axie.watch/",
+                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
+                    "description": "Track your Axie Infinity scholars and Axies with ease",
                     "social": [
                         {
                             "type": "Twitter",
-                            "url": "https://twitter.com/ManagementAxie"
+                            "url": "https://twitter.com/AxieEliteBreedr"
                         }
                     ]
                 },
@@ -126,18 +138,6 @@
                         {
                             "type": "Twitter",
                             "url": "https://twitter.com/flowbot44"
-                        }
-                    ]
-                },
-                {
-                    "title": "EBC Tracker",
-                    "url": "https://axie.watch/",
-                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
-                    "description": "Track your Axie Infinity scholars and Axies with ease",
-                    "social": [
-                        {
-                            "type": "Twitter",
-                            "url": "https://twitter.com/AxieEliteBreedr"
                         }
                     ]
                 },
@@ -197,6 +197,18 @@
                         {
                             "type": "Twitter",
                             "url": "https://twitter.com/alberttakagi"
+                        }
+                    ]
+                },
+                {
+                    "title": "Scholar Tracker Manager",
+                    "url": "https://tracker.axie.management/",
+                    "image": "https://tracker.axie.management/favicon.ico",
+                    "description": "Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/ManagementAxie"
                         }
                     ]
                 }
