@@ -2,28 +2,28 @@
     "data": [
         {
             "slug": "defi-kingdoms",
-            "tools":[
-               {
-                   "title": "DFK Watch",
-                   "url": "https://dfkwatch.web.app/personal",
-                   "image": "",
-                   "description": "DFK Portfolio overview, Hero overview and more",
-                   "social": [
-                       {
-                           "type": "Twitter", 
-                           "url": "https://twitter.com/KingdomWatchDFK"
+            "tools": [
+                {
+                    "title": "DFK Watch",
+                    "url": "https://dfkwatch.web.app/personal",
+                    "image": "",
+                    "description": "DFK Portfolio overview, Hero overview and more",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/KingdomWatchDFK"
                         }
-                   ],
-                   "authorName": "@Magg | Kingdom.Watch / DFK Discord"
-               },
-               {
-                   "title": "DFK Wiki",
-                   "url": "https://dfkwiki.com/",
-                   "image": "https://dfkwiki.com/assets/img/logo.png",
-                   "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
-                   "authorName": "Sarah"
-               },
-               {
+                    ],
+                    "authorName": "@Magg | Kingdom.Watch / DFK Discord"
+                },
+                {
+                    "title": "DFK Wiki",
+                    "url": "https://dfkwiki.com/",
+                    "image": "https://dfkwiki.com/assets/img/logo.png",
+                    "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
+                    "authorName": "Sarah"
+                },
+                {
                     "title": "DFK Tavern",
                     "url": "https://dfk-tavern.herokuapp.com/",
                     "image": "https://dfk-tavern.herokuapp.com/assets/favicon.ico?m=1638380798.0",
@@ -59,6 +59,60 @@
                         {
                             "type": "Twitter",
                             "url": "https://twitter.com/dukeofdolma"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "axie-infinity",
+            "tools": [
+                {
+                    "title": "Freak's Axie Extension",
+                    "url": "https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh",
+                    "image": "https://lh3.googleusercontent.com/0KtbETdYPQLyd8SV66ZhzEF0p4qWzq4V02o2O5DbalPL5voVcGVj0j5wgyEquWcynLk7PbzGvk3hRdzEPlv6C2jX=w128-h128-e365-rj-sc0x00ffffff",
+                    "description": "An extension to help you play Axie Infinity. It shows number of breeds, HP, speed, purity, and pending exp",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://freakitties.github.io/axie/"
+                        }
+                    ],
+                    "authorName": "freak#0001"
+                },
+                {
+                    "title": "Scholar Tracker Manager",
+                    "url": "https://tracker.axie.management/",
+                    "image": "https://tracker.axie.management/favicon.ico",
+                    "description": "Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/ManagementAxie"
+                        }
+                    ]
+                },
+                {
+                    "title": "Axie Finder",
+                    "url": "https://axie.zone/finder",
+                    "image": "https://axie.zone/assets/images/favicon.png",
+                    "description": "Find the perfect Axie by selecting up to 4 Ability Cards. You can filter your search results to find exactly the Axie you want.",
+                    "authorName": "AxieZone",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/seuchenhund"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cards Explorer",
+                    "url": "https://www.axieworld.com/en/tools/cards-explorer",
+                    "description": "Explore all cards from Axie Universe",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/axieworld"
                         }
                     ]
                 }
