@@ -3,35 +3,6 @@
         {
             "slug": "defi-kingdoms",
             "tools":[
-                {
-                    "title": "DFK Watch",
-                    "url": "https://dfkwatch.web.app/personal",
-                    "image": "",
-                    "description": "DFK Portfolio overview, Hero overview and more",
-                    "social": [
-                        {"type": "Twitter", "url": "https://twitter.com/KingdomWatchDFK"}
-                    ],
-                    "authorName": "@Magg | Kingdom.Watch / DFK Discord"
-                },
-                {
-                    "title": "DFK Wiki",
-                    "url": "https://dfkwiki.com/",
-                    "image": "https://dfkwiki.com/assets/img/logo.png",
-                    "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
-                    "authorName": "Sarah"
-                },
-                {
-                    "title": "DFK Tavern",
-                    "url": "https://dfk-tavern.herokuapp.com/",
-                    "image": "https://dfk-tavern.herokuapp.com/assets/favicon.ico?m=1638380798.0",
-                    "description": "Dashboards for DFK Tavern, Hero Price Check, Tavern Data",
-                    "authorName": "tfang#7295"
-                }
-            ]
-        },
-        {
-            "slug": "cryptokitties",
-            "tools":[
                {
                    "title": "DFK Watch - CK",
                    "url": "https://dfkwatch.web.app/personal",
@@ -62,7 +33,6 @@
                 {
                     "title": "DFKTavern",
                     "url": "http://dfktavern.com/",
-                    "image": "http://dfktavern.com/dist/image/favicon.ico",
                     "description": "A collection of tools: Floor Analytics, Auctions, Hero Population and more",
                     "social": [
                         {
