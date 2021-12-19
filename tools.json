@@ -1,0 +1,46 @@
+{
+    "data": [
+        {"slug": "defi-kingdoms",
+         "tools":[
+            {
+                "title": "DFK Watch",
+                "url": "https://dfkwatch.web.app/personal",
+                "image": "",
+                "description": "DFK Portfolio overview, Hero overview and more",
+                "social": [
+                    {"type": "Twitter", "url": "https://twitter.com/KingdomWatchDFK"},
+                ],
+                "authorName": "@Magg | Kingdom.Watch / DFK Discord",
+            },
+            {
+                "title": "DFK Wiki",
+                "url": "https://dfkwiki.com/",
+                "image": "https://dfkwiki.com/assets/img/logo.png",
+                "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
+                "authorName": "Sarah"
+            }
+            ]
+        },
+        {"slug": "cryptokitties",
+            "tools":[
+               {
+                   "title": "DFK Watch - CK",
+                   "url": "https://dfkwatch.web.app/personal",
+                   "image": "",
+                   "description": "DFK Portfolio overview, Hero overview and more",
+                   "social": [
+                       {"type": "Twitter", "url": "https://twitter.com/KingdomWatchDFK"},
+                   ],
+                   "authorName": "@Magg | Kingdom.Watch / DFK Discord",
+               },
+               {
+                   "title": "DFK Wiki - CK",
+                   "url": "https://dfkwiki.com/",
+                   "image": "https://dfkwiki.com/assets/img/logo.png",
+                   "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
+                   "authorName": "Sarah"
+               }
+               ]
+           }
+    ]
+}
