@@ -4,7 +4,7 @@
             "slug": "defi-kingdoms",
             "tools":[
                {
-                   "title": "DFK Watch - CK",
+                   "title": "DFK Watch",
                    "url": "https://dfkwatch.web.app/personal",
                    "image": "",
                    "description": "DFK Portfolio overview, Hero overview and more",
@@ -17,7 +17,7 @@
                    "authorName": "@Magg | Kingdom.Watch / DFK Discord"
                },
                {
-                   "title": "DFK Wiki - CK",
+                   "title": "DFK Wiki",
                    "url": "https://dfkwiki.com/",
                    "image": "https://dfkwiki.com/assets/img/logo.png",
                    "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
