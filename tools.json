@@ -85,7 +85,12 @@
                     "url": "https://tracker.axie.management/",
                     "image": "https://tracker.axie.management/favicon.ico",
                     "description": "Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
-                    "authorName": "Sarah"
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/ManagementAxie"
+                        }
+                    ]
                 },
                 {
                     "title": "Axie Finder",
