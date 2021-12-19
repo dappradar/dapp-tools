@@ -26,7 +26,6 @@
                     "image": "https://dfk-tavern.herokuapp.com/assets/favicon.ico?m=1638380798.0",
                     "description": "Dashboards for DFK Tavern, Hero Price Check, Tavern Data",
                     "authorName": "tfang#7295"
-
                 }
             ]
         },
@@ -49,7 +48,14 @@
                    "image": "https://dfkwiki.com/assets/img/logo.png",
                    "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
                    "authorName": "Sarah"
-               }
+               },
+               {
+                "title": "DFK Tavern",
+                "url": "https://dfk-tavern.herokuapp.com/",
+                "image": "https://dfk-tavern.herokuapp.com/assets/favicon.ico?m=1638380798.0",
+                "description": "Dashboards for DFK Tavern, Hero Price Check, Tavern Data",
+                "authorName": "tfang#7295"
+            }
             ]
         }
     ]
