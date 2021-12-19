@@ -108,7 +108,7 @@
                 {
                     "title": "Cards Explorer",
                     "url": "https://www.axieworld.com/en/tools/cards-explorer",
-                    "image": "https://cms.axieworld.com/public/uploads/Directus/originals/503aee01-8b35-4188-9e12-2a856e8d2244.png"
+                    "image": "https://cms.axieworld.com/public/uploads/Directus/originals/503aee01-8b35-4188-9e12-2a856e8d2244.png",
                     "description": "Explore all cards from Axie Universe",
                     "social": [
                         {
@@ -120,7 +120,7 @@
                 {
                     "title": "Flowbot44's Axie Infinity Extension",
                     "url": "https://chrome.google.com/webstore/detail/flowbot44s-axie-infinity/iknjhcclpcildaklifghhjblmbjpkole",
-                    "image": "https://lh3.googleusercontent.com/NxCcrjARkwhvemEnfl7j_PkGJbsPiHQ34HhGJsOxMo62h1Reyoq0xGUQrZUXi5Av8wv4mlsNomRP7mXNSfgcaclp1A0=w128-h128-e365-rj-sc0x00ffffff"
+                    "image": "https://lh3.googleusercontent.com/NxCcrjARkwhvemEnfl7j_PkGJbsPiHQ34HhGJsOxMo62h1Reyoq0xGUQrZUXi5Av8wv4mlsNomRP7mXNSfgcaclp1A0=w128-h128-e365-rj-sc0x00ffffff",
                     "description": "This extension will help with some Axie damage calculations",
                     "social": [
                         {
@@ -132,7 +132,7 @@
                 {
                     "title": "EBC Tracker",
                     "url": "https://axie.watch/",
-                    "image": "https://axie.watch/images/ebc-small-logo.jpeg"
+                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
                     "description": "Track your Axie Infinity scholars and Axies with ease",
                     "social": [
                         {
@@ -144,7 +144,7 @@
                 {
                     "title": "Axie Tech",
                     "url": "https://www.axie.tech/",
-                    "image": "https://axie.watch/images/ebc-small-logo.jpeg"
+                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
                     "description": "Offers tools & resources that allow scholars & scholarship managers to increase their SLP income & boost",
                     "social": [
                         {
@@ -156,7 +156,7 @@
                 {
                     "title": "xSpend",
                     "url": "https://xspend.finance/",
-                    "image": "https://app.xspend.finance/images/xspend/logo.png"
+                    "image": "https://app.xspend.finance/images/xspend/logo.png",
                     "description": "Use SLP or Stablecoins to pay for your bills",
                     "social": [
                         {
@@ -168,7 +168,7 @@
                 {
                     "title": "Axie Labs",
                     "url": "https://axielabs.io/",
-                    "image": "https://axielabs.io/favicon.ico"
+                    "image": "https://axielabs.io/favicon.ico",
                     "description": "Axie Infinity market statistics & analytics",
                     "social": [
                         {
@@ -180,7 +180,7 @@
                 {
                     "title": "BetterAxie",
                     "url": "https://betteraxie.tech/",
-                    "image": "https://betteraxie.tech/assets/svg/logo.svg"
+                    "image": "https://betteraxie.tech/assets/svg/logo.svg",
                     "description": "A repository of tools and libraries for Axie Infinity",
                     "social": [
                         {
