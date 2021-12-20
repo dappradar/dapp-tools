@@ -206,7 +206,7 @@
                     "description": "Full automation for scholarships. Payouts, Tracking, and everything else you need. All self hosted, with password based encryption.",
                     "social": [
                         {
-                            "type": "Discord",
+                            "type": "Discord"
                             "url": "https://discord.gg/mSegpSbbAZ"
                         }
                     ],
