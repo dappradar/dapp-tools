@@ -249,6 +249,24 @@
                     "authorName": "Maxbrand99#5913"
                 }
             ]
-        }
+        },
+        {
+            "slug": "splinterlands",
+            "tools": [
+                {
+                    "title": "Card Reference",
+                    "url": "https://splintercards.com/cards.html",
+                    "image": "https://splintercards.com/media/logo-splinterlands-characters.png",
+                    "description": "Explore all cards in the Splinterlands",
+        },        
+        {
+            "slug": "thetan-arena",
+            "tools": [
+                {
+                    "title": "Thetan Arena Tool",
+                    "url": "https://thetanarenatool.io/",
+                    "image": "https://thetanarenatool.io/images/favicon.png",
+                    "description": "Calculate profit of a Hero in Thetan Arena",
+        },     
     ]
 }
