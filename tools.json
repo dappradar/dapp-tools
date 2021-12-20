@@ -117,6 +117,18 @@
                         }
                     ]
                 },
+                                {
+                    "title": "Axie Economy",
+                    "url": "https://www.axieworld.com/en/economics/charts",
+                    "image": "https://cms.axieworld.com/public/uploads/Directus/originals/503aee01-8b35-4188-9e12-2a856e8d2244.png",
+                    "description": "Investigate charts for the Axie economy.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/axieworld"
+                        }
+                    ]
+                },
                 {
                     "title": "Flowbot44's Axie Infinity Extension",
                     "url": "https://chrome.google.com/webstore/detail/flowbot44s-axie-infinity/iknjhcclpcildaklifghhjblmbjpkole",
