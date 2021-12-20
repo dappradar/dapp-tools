@@ -1,0 +1,64 @@
+{
+    "slug": "defi-kingdoms",
+    "tools": [
+        {
+            "title": "DFK Watch",
+            "url": "https://dfkwatch.web.app/personal",
+            "image": "",
+            "description": "DFK Portfolio overview, Hero overview and more",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/KingdomWatchDFK"
+                }
+            ],
+            "authorName": "@Magg | Kingdom.Watch / DFK Discord"
+        },
+        {
+            "title": "DFK Wiki",
+            "url": "https://dfkwiki.com/",
+            "image": "https://dfkwiki.com/assets/img/logo.png",
+            "description": "DFK Wiki - Heroes, Database, Patch Notes and Tools",
+            "authorName": "Sarah"
+        },
+        {
+            "title": "DFK Tavern",
+            "url": "https://dfk-tavern.herokuapp.com/",
+            "image": "https://dfk-tavern.herokuapp.com/assets/favicon.ico?m=1638380798.0",
+            "description": "Dashboards for DFK Tavern, Hero Price Check, Tavern Data",
+            "authorName": "tfang#7295"
+        },
+        {
+            "title": "DFKTavern",
+            "url": "http://dfktavern.com/",
+            "description": "A collection of tools: Floor Analytics, Auctions, Hero Population and more",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/DFKTavern"
+                },
+                {
+                    "type": "Medium Blog",
+                    "url": "https://dfktavern.medium.com/"
+                }
+            ]
+        },
+        {
+            "title": "DFK Hero Calculator",
+            "url": "https://grid.is/@jmjpattinson/dfk-hero-calculator-:2CMnWrPRa2NNocluTIlAA",
+            "description": "Hero stats growth calculator. Visualise exactly how your hero will progress as it levels up."
+        },
+        {
+            "title": "DeFi Kingdoms Profession Scores",
+            "url": "https://chrome.google.com/webstore/detail/defi-kingdoms-profession/pklfcddomaflmgkinpcmendfkkdopnlp?hl=en",
+            "description": "Calculate and display DeFi Kingdoms profession scores on hero cards (Browser Extension)",
+            "image": "https://lh3.googleusercontent.com/mEzUuzrZz6Y6gxas6_y1_WmRt2VGnF8tjicYXZztY6AaxuxgP8VnnewmP_uRJ75a9d-j1BwdGqnX2O0mZVIuJkR6FQ=w128-h128-e365-rj-sc0x00ffffff",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/dukeofdolma"
+                }
+            ]
+        }
+    ]
+}

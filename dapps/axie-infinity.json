@@ -1,0 +1,150 @@
+{
+    "slug": "axie-infinity",
+    "tools": [
+        {
+            "title": "Freak's Axie Extension",
+            "url": "https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh",
+            "image": "https://lh3.googleusercontent.com/0KtbETdYPQLyd8SV66ZhzEF0p4qWzq4V02o2O5DbalPL5voVcGVj0j5wgyEquWcynLk7PbzGvk3hRdzEPlv6C2jX=w128-h128-e365-rj-sc0x00ffffff",
+            "description": "An extension to help you play Axie Infinity. It shows number of breeds, HP, speed, purity, and pending exp",
+            "social": [
+                {
+                    "type": "Website",
+                    "url": "https://freakitties.github.io/axie/"
+                }
+            ],
+            "authorName": "freak#0001"
+        },
+        {
+            "title": "Scholar Tracker Manager",
+            "url": "https://tracker.axie.management/",
+            "image": "https://tracker.axie.management/favicon.ico",
+            "description": "Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/ManagementAxie"
+                }
+            ]
+        },
+        {
+            "title": "Axie Finder",
+            "url": "https://axie.zone/finder",
+            "image": "https://axie.zone/assets/images/favicon.png",
+            "description": "Find the perfect Axie by selecting up to 4 Ability Cards. You can filter your search results to find exactly the Axie you want.",
+            "authorName": "AxieZone",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/seuchenhund"
+                }
+            ]
+        },
+        {
+            "title": "Cards Explorer",
+            "url": "https://www.axieworld.com/en/tools/cards-explorer",
+            "image": "https://cms.axieworld.com/public/uploads/Directus/originals/503aee01-8b35-4188-9e12-2a856e8d2244.png",
+            "description": "Explore all cards from Axie Universe",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/axieworld"
+                }
+            ]
+        },
+        {
+            "title": "Flowbot44's Axie Infinity Extension",
+            "url": "https://chrome.google.com/webstore/detail/flowbot44s-axie-infinity/iknjhcclpcildaklifghhjblmbjpkole",
+            "image": "https://lh3.googleusercontent.com/NxCcrjARkwhvemEnfl7j_PkGJbsPiHQ34HhGJsOxMo62h1Reyoq0xGUQrZUXi5Av8wv4mlsNomRP7mXNSfgcaclp1A0=w128-h128-e365-rj-sc0x00ffffff",
+            "description": "This extension will help with some Axie damage calculations",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/flowbot44"
+                }
+            ]
+        },
+        {
+            "title": "EBC Tracker",
+            "url": "https://axie.watch/",
+            "image": "https://axie.watch/images/ebc-small-logo.jpeg",
+            "description": "Track your Axie Infinity scholars and Axies with ease",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/AxieEliteBreedr"
+                }
+            ]
+        },
+        {
+            "title": "Axie Tech",
+            "url": "https://www.axie.tech/",
+            "image": "https://pbs.twimg.com/profile_images/1457808888485584897/UgRxx6d1_400x400.jpg",
+            "description": "Offers tools & resources that allow scholars & scholarship managers to increase their SLP income & boost",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/axie_tech"
+                }
+            ]
+        },
+        {
+            "title": "xSpend",
+            "url": "https://xspend.finance/",
+            "image": "https://app.xspend.finance/images/xspend/logo.png",
+            "description": "Use SLP or Stablecoins to pay for your bills",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/XLDFinance"
+                }
+            ]
+        },
+        {
+            "title": "Axie Labs",
+            "url": "https://axielabs.io/",
+            "image": "https://pbs.twimg.com/profile_images/1450868728439189506/6IrkB5iQ_400x400.jpg",
+            "description": "Axie Infinity market statistics & analytics",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/LabsAxie"
+                }
+            ]
+        },
+        {
+            "title": "BetterAxie",
+            "url": "https://betteraxie.tech/",
+            "image": "https://pbs.twimg.com/profile_images/1454114449196003334/ptrtm5Yj_400x400.jpg",
+            "description": "A repository of tools and libraries for Axie Infinity",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/better_axie"
+                }
+            ]
+        },
+        {
+            "title": "AxieKing",
+            "url": "https://www.axieking.gg/",
+            "description": "This tool helps players to count opponents' energy and calculate attack damages accurately",
+            "social": [
+                {
+                    "type": "Twitter",
+                    "url": "https://twitter.com/alberttakagi"
+                }
+            ]
+        },
+        {
+            "title": "Lamp and Max's Scholarship Automation",
+            "url": "https://www.notion.so/lampandmaxaxie/LampAndMax-Axie-Bot-Information-6ffe8465db214b8095cedbdba93dc86f",
+            "description": "Full automation for scholarships. Payouts, Tracking, and everything else you need. All self hosted, with password based encryption.",
+            "social": [
+                {
+                    "type": "Discord",
+                    "url": "https://discord.gg/mSegpSbbAZ"
+                }
+            ],
+            "authorName": "Maxbrand99#5913"
+        }
+    ]
+}
