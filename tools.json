@@ -130,10 +130,34 @@
                     ]
                 },
                 {
+                    "title": "EBC Tools",
+                    "url": "https://www.elitebreeders.club/",
+                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
+                    "description": "The EBC provides breeders, scholar managers and Arena players powerful tools, metrics and crowd sourced knowledge to maximize their Axie experience",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/AxieEliteBreedr"
+                        }
+                    ]
+                },
+                {
                     "title": "EBC Tracker",
                     "url": "https://axie.watch/",
                     "image": "https://axie.watch/images/ebc-small-logo.jpeg",
                     "description": "Track your Axie Infinity scholars and Axies with ease",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/AxieEliteBreedr"
+                        }
+                    ]
+                },
+                {
+                    "title": "EBC Marketplace",
+                    "url": "https://www.axielegend.com/",
+                    "image": "https://axie.watch/images/ebc-small-logo.jpeg",
+                    "description": "Advanced Axie search engine designed to help Axie Infinity players find the best Axies on the market",
                     "social": [
                         {
                             "type": "Twitter",
