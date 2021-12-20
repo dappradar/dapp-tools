@@ -247,6 +247,45 @@
                         }
                     ],
                     "authorName": "Maxbrand99#5913"
+                },
+                {
+                    "title": "Axie Infinity XYZ Scholar Tracker",
+                    "url": "https://www.axie-scho-tracker.xyz/",
+                    "image": "https://www.axie-scho-tracker.xyz/static/media/logo192.89641781.png",
+                    "description": "Famously known as the Vercel App. The website offers SLP tracker or scholar tracker and monitoring as well as some other tools.",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://www.axie-scho-tracker.xyz/"
+                        }
+                    ],
+                    "authorName": "Rane G"
+                },
+                {
+                    "title": "Axie Infinity XYZ Cards List",
+                    "url": "https://www.axie-scho-tracker.xyz/tools/cards",
+                    "image": "https://www.axie-scho-tracker.xyz/static/media/logo192.89641781.png",
+                    "description": "Find and search all cards from Axie Infinity.",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://www.axie-scho-tracker.xyz/tools/cards"
+                        }
+                    ],
+                    "authorName": "Rane G"
+                },
+                {
+                    "title": "Axie Infinity XYZ Energy Counter",
+                    "url": "https://www.axie-scho-tracker.xyz/tools/energy-counter",
+                    "image": "https://www.axie-scho-tracker.xyz/static/media/logo192.89641781.png",
+                    "description": "Count the energy of your enemy.",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://www.axie-scho-tracker.xyz/tools/energy-counter"
+                        }
+                    ],
+                    "authorName": "Rane G"
                 }
             ]
         }
