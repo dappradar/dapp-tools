@@ -81,6 +81,19 @@
                     "authorName": "freak#0001"
                 },
                 {
+                    "title": "AxieDex Extension",
+                    "url": "https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo",
+                    "image": "https://lh3.googleusercontent.com/q3pNUFhEC6n9pv2UMDoIPQF7T7lv9Ld3_dyGooJlx-R1vwgYYXNPoW8ON7h1wAIQ9hy2usn4sqzEuShrojesbtASnQ=w128-h128-e365-rj-sc0x00ffffff",
+                    "description": "An extension to display comprehensive Axies information on the Marketplace. Tremendously useful for finding your perfect Axie.",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://tonystrawberry.github.io/axiedex/"
+                        }
+                    ],
+                    "authorName": "tonystrawberry | AxieDex 🔍#4316"
+                },
+                {
                     "title": "Scholar Tracker Manager",
                     "url": "https://tracker.axie.management/",
                     "image": "https://tracker.axie.management/favicon.ico",
