@@ -299,6 +299,23 @@
                         }
                     ],
                     "authorName": "Rane G"
+                },
+                {
+                    "title": "Elliptical Add-On for Google Sheets",
+                    "url": "https://workspace.google.com/marketplace/app/elliptical/131612283427",
+                    "image": "https://david-barreto.com/wp-content/uploads/2021/11/big-banner.png",
+                    "description": "Custom functions for Google Sheets to fetch data from Axie Infinity",
+                    "social": [
+                        {
+                            "type": "Website",
+                            "url": "https://david-barreto.com/elliptical-addon/"
+                        },
+                        {
+                            "type": "Youtube",
+                            "url": "https://www.youtube.com/playlist?list=PLX1DfYM3R_wfd1-4B01dX0iXBz74C8Cqg"
+                        }
+                    ],
+                    "authorName": "David Barreto"
                 }
             ]
         }
