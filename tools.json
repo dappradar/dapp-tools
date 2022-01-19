@@ -61,6 +61,26 @@
                             "url": "https://twitter.com/dukeofdolma"
                         }
                     ]
+                },
+                {
+                    "title": "dfk.market",
+                    "url": "https://dfk.market/",
+                    "description": "A safe and secure smart contract for the escrow / transfer of locked $JEWEL",
+                    "image": "https://dfk.market/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0968823a.png&w=64&q=75",
+                    "social": [
+                        {
+                            "type": "@mgnr_io",
+                            "url": "https://twitter.com/mgnr_io"
+                        },
+                        {
+                            "type": "@sizemarkets",
+                            "url": "https://twitter.com/sizemarkets"
+                        },
+                        {
+                            "type": "GitHub",
+                            "url": "https://github.com/size-market/jewel-contracts/"
+                        }
+                    ]
                 }
             ]
         },
