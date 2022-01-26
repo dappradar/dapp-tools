@@ -329,6 +329,19 @@
                         }
                     ],
                     "authorName": "David Barreto"
+                },
+                {
+                 "title": "Axie Meters",
+                 "url": "https://axiemeters.com/",
+                 "image": "https://axiemeters.com/favicon.png",
+                 "description": "Axie Infinity Market Analyzer ,Search Engine and Notifier",
+                 "social": [ 
+                     {
+                      "type": "Website",
+                      "url": "https://axiemeters.com/" 
+                     } 
+                 ], 
+                  "authorName": "Namya | Axiemeters.com#5775" 
                 }
             ]
         }
