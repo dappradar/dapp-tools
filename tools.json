@@ -74,6 +74,19 @@
                             "url": "https://github.com/size-market/jewel-contracts/"
                         }
                     ]
+                },
+                {
+                    "title": "DFKing",
+                    "url": "https://dfking.co/",
+                    "description": "Hero analysis, search, insights, news for Defi Kingdoms",
+                    "image": "https://dfking.co/favicon.ico",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/dfkingco"
+                        }
+                    ],
+                    "authorName": "@CryptoWargh | dfking.co#3126"
                 }
             ]
         },
