@@ -3,6 +3,19 @@
         {
             "slug": "defi-kingdoms",
             "tools": [
+                 {
+                    "title": "DFKQuester",
+                    "url": "https://dfkquester.app,
+                    "image": "https://dfkquester.app/assets/img/icon-192x192.png",
+                    "description": "An alternative UI for DFK which allows users to be more efficient at performing mundane tasks",
+                    "social": [
+                        {
+                            "type": "Discord",
+                            "url": "https://discord.gg/7aH2XwmwQF"
+                        }
+                    ],
+                    "authorName": "Born2Die007"
+                },
                 {
                     "title": "DFK Watch",
                     "url": "https://dfkwatch.web.app/personal",
