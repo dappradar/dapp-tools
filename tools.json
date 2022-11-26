@@ -398,6 +398,44 @@
                             "url": "https://twitter.com/wolfgametools"
                         }
                     ]
+                },
+                {
+                    "title": "WOLFLAND.LIVE",
+                    "url": "https://wolfland.live/",
+                    "description": "Wolf.game World Map",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/cryptdk2"
+                        }
+                    ],
+                    "author": "SpaceBug.eth"
+                },
+                {
+                    "title": "Wolf Game Wiki",
+                    "url": "https://wolfgame.wiki",
+                    "description": "Community wiki for Wolf Game",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/wolfgamewiki"
+                        },
+                        {
+                            "type": "Discord",
+                            "url": "https://discord.com/invite/rAdVPBk3nX"
+                        }
+                    ]
+                },
+                {
+                    "title": "MetaScraper Land Analytics",
+                    "url": "https://wg.metascraper.io",
+                    "description": "MetaScraper provides Land Analytics for Wolf Game",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/MetaScraper"
+                        }
+                    ]
                 }
             ]
         }
