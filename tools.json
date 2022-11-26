@@ -383,6 +383,23 @@
                   "authorName": "Namya | Axiemeters.com#5775" 
                 }
             ]
+        },
+        {
+            "slug": "wolf-game",
+            "tools": [
+                 {
+                    "title": "Wolf Game Tools",
+                    "url": "https://www.wolfgame.tools/",
+                    "image": "https://www.wolfgame.tools/static/media/wolfgame-tools.2d736938a522e6e87e4863f2489f6af0.svg",
+                    "description": "Wolf Game Tools is an dvanced analytics application dedicated to providing insight and transparency into the Wolf Game NFT ecosystem",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/wolfgametools"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
