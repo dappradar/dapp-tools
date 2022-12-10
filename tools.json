@@ -394,6 +394,7 @@
                 },
                 {
                     "title": "AW NAW Tools",
+                    "image": "https://nkcss.com/favicon.ico",
                     "url": "https://aw.naw.io/",
                     "description": "It includes a visual bag tool that let you set your back and it also makes it easier to switch loadouts.",
                     "social": [
@@ -407,6 +408,7 @@
                 {
                     "title": "Guide - How to play AW like a PRO",
                     "url": "https://dappradar.com/blog/how-to-play-alien-worlds-like-a-pro",
+                    "image": "https://dappradar.com/blog/static/212ad50f2447ee4cd9fcbdf51923c971/e08cd/dappradar.com-mastering-these-four-things-will-help-you-play-alien-worlds-like-a-pro-image.png",
                     "description": "Mine, acquire, trade and earn rewards in this intergalactic virtual world. Find out how to play like a PRO.",
                     "social": [
                         {
@@ -419,6 +421,7 @@
                 {
                     "title": "AW Stats",
                     "url": "http://awstats.io/",
+                    "image": "https://i.ibb.co/KjsJ6dc/image.png",
                     "description": "Find an interactive map, table of all lands, mining live map and pools and an inventory tool"
                 }
             ]
