@@ -385,6 +385,45 @@
             ]
         },
         {
+            "slug": "alien-worlds",
+            "tools": [
+                 {
+                    "title": "Alien Worlds Tools",
+                    "url": "https://alienworlds.tools/",
+                    "description": "Alien Worlds Tools includes a mining calculator, mining alarm, mining stats, newly minted NFTs and the oracle results. "
+                },
+                {
+                    "title": "AW NAW Tools",
+                    "url": "https://aw.naw.io/",
+                    "description": "It includes a visual bag tool that let you set your back and it also makes it easier to switch loadouts.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/NKCSS"
+                        }
+                    ],
+                    "author": "Nick Kusters"
+                },
+                {
+                    "title": "Guide - How to play AW like a PRO",
+                    "url": "https://dappradar.com/blog/how-to-play-alien-worlds-like-a-pro",
+                    "description": "Mine, acquire, trade and earn rewards in this intergalactic virtual world. Find out how to play like a PRO.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/dappradar"
+                        }
+                    ],
+                    "author": "Jade Gao"
+                },
+                {
+                    "title": "AW Stats",
+                    "url": "http://awstats.io/",
+                    "description": "Find an interactive map, table of all lands, mining live map and pools and an inventory tool",
+                }
+            ]
+        },
+        {
             "slug": "wolf-game",
             "tools": [
                  {
