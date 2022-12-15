@@ -106,6 +106,30 @@
         {
             "slug": "axie-infinity",
             "tools": [
+				{
+				  "title": "Kaizen by blockchainspace",
+				  "url": "https://app.blockchainspace.asia",
+				  "image": "https://app.blockchainspace.asia/favicon.ico",
+				  "description": "The Kaizen Guild Management Dashboard will aid thousands of guilds and millions of players in managing their in-game assets in play-to-earn games.It can Track all of your axies, daily SLP earnings, manager and scholar splits, and much more!",
+				  "social": [
+					{
+					  "type": "Website",
+					  "url": "https://app.blockchainspace.asia"
+					},
+					{
+					  "type": "Twitter",
+					  "url": "https://twitter.com/Blockchain_SPC"
+					},
+					{
+					  "type": "Medium",
+					  "url": "https://blockchain-space.medium.com"
+					},
+					{
+					  "type": "Discord",
+					  "url": " https://discord.gg/blockchainspace"
+					}
+				  ]
+				},
                 {
                     "title": "Freak's Axie Extension",
                     "url": "https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh",
