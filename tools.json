@@ -3,6 +3,23 @@
         {
             "slug": "defi-kingdoms",
             "tools": [
+                {
+                    "title": "DFKHelper",
+                    "url": "https://dfkhelper.com",
+                    "image": "https://beta.dfkhelper.com/assets/img/logo.png",
+                    "description": "DFK Helper is a tool that helps simplify the DFK experience: auto-questing, leveling, dueling, summoning, alchemy, item selling, buying, LPing, reporting on Telegram... you name it.",
+                    "social": [
+                        {
+                            "type": "Discord",
+                            "url": "https://discord.gg/cMy7JgcF9J"
+                        },
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/DFK_Helper?s=20"
+                        }
+                    ],
+                    "authorName": "zelys#9842"
+                },
                  {
                     "title": "DFKQuester",
                     "url": "https://dfkquester.app",
