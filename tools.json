@@ -480,6 +480,61 @@
                     ]
                 }
             ]
+        },
+        {
+            "slug": "clone-x-x-takashi-murakami",
+            "tools": [
+                 {
+                    "title": "Clone.Tools",
+                    "url": "https://clone.tools/",
+                    "description": "Blender plugin to use the VRM file of your CloneX NFT character in Blender.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/beb_eth/status/1554178051667177473"
+                        }
+                    ]
+                },
+                {
+                    "title": "Blender",
+                    "url": "https://www.blender.org/",
+                    "description": "Free and open-source 3D graphics software.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/blender"
+                        }
+                    ]
+                },
+                {
+                    "title": "RTFKT Video Guides",
+                    "url": "https://www.youtube.com/@RTFKTstudios",
+                    "description": "Official guides by RTFKT, showing how to use software to create CloneX content.",
+                    "social": [
+                        {
+                            "type": "Youtube",
+                            "url": "https://www.youtube.com/@RTFKTstudios"
+                        }
+                    ]
+                },
+                {
+                    "title": "Snap AR Lens Studio",
+                    "url": "https://ar.snap.com/lens-studio",
+                    "description": "Create AR filters using your CloneX NFT."
+                },
+                {
+                    "title": "Snap Camera",
+                    "url": "https://ar.snap.com/lens-studio",
+                    "description": "Software required to use Snapchat Lens filters in live streams and video chats on your PC and Mac.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://snapcamera.snapchat.com/"
+                        }
+                    ]
+                }
+            ]
         }
+
     ]
 }
