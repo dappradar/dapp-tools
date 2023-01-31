@@ -4,6 +4,31 @@
             "slug": "defi-kingdoms",
             "tools": [
                  {
+                    "title": "DFK Helper",
+                    "url": "https://dfkhelper.com",
+                    "image": "https://drive.google.com/file/d/1hawOfAuISIF-lRSL_74tUF9kopyQa776/preview",
+                    "description": "Automating your DefiKingdoms experience. Up your game and get your time back!",
+                    "social": [
+                        {
+                            "type": "Discord",
+                            "url": "https://discord.gg/Tr4Mu7pPZ9"
+                        },
+                        {
+                            "type": "Website",
+                            "url": "https://dfkhelper.com"
+                        },
+                        {
+                            "type": "YouTube",
+                            "url": "https://www.youtube.com/channel/UCMHnE4QDf99XFZA0eUuHUGw"
+                        },
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/DFK_Helper/"
+                        }
+                    ],
+                    "authorName": "Zelys"
+                }, 
+                {
                     "title": "DFKQuester",
                     "url": "https://dfkquester.app",
                     "image": "https://dfkquester.app/assets/img/icon-192x192.png",
