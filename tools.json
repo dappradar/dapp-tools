@@ -100,6 +100,23 @@
                         }
                     ],
                     "authorName": "@CryptoWargh | dfking.co#3126"
+                },
+                 {
+                    "title": "DFK Assitant",
+                    "url": "https://chrome.google.com/webstore/detail/dfk-assistant/hafniohphlkaploekgeojkkeohadfoeo",
+                    "description": "The DFK Assistant is a tool designed for DFK players, primarily aimed at enhancing the efficiency of players during gameplay.",
+                    "image": "https://github.com/6xshushu/DFK-assistant/blob/main/src/img/128.png",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/0xshushu"
+                        },
+                        {
+                            "type": "GitHub",
+                            "url": "https://github.com/6xshushu/DFK-assistant"
+                        }
+                    ],
+                    "authorName": "@CryptoWargh | 0xshushu"
                 }
             ]
         },
